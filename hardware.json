@@ -79,6 +79,14 @@
     "display": "6.18 inch, 2246x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
+    "bullhead": {
+    "cpu": "Qualcomm® Snapdragon™ 808",
+    "ram": "2GB of LP-DDR3",
+    "rom": "16GB/32GB",
+    "battery": "2700 mAh",
+    "display": "5.2 inch, 1920x1080 pixel(424ppi)",
+    "cpuarch": "arm64"
+  },
   "cancro": {
     "cpu": "Qualcomm® Snapdragon™ 801",
     "ram": "3GB of LP-DDR3",
